@@ -15,7 +15,7 @@
 
 ### 🤖 Tecnologias que uso
 
-<p><img src ="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html"></p>
+<p><img src ="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html,php"></p>
 
 ---
 
